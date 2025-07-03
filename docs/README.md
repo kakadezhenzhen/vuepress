@@ -28,6 +28,6 @@ features:
 footer: MIT Licensed | Copyright © 2018-present VuePress Community
 ---
 
-This is the consdfsfdtent of home page. Check [Home Page Docs][default-theme-home] for more details.
+ge. Check [Home Page Docs][default-theme-home] for more details.
 
 [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
